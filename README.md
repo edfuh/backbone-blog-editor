@@ -1,7 +1,1 @@
-A Backbone.js powered blog post editor.
-
-TODO:
-
-* Loop in require.js optimizer
-* Create UI element for delete post
-* 
+I was working on something similar and forked to see what homeboy was doing here
